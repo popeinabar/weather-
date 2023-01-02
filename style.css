@@ -1,0 +1,45 @@
+* {
+  background: linear-gradient(to right, rgb(0, 255, 213), rgb(255, 255, 255));
+
+  text-align: center;
+}
+
+.search {
+  background-color: white;
+  margin-top: 50px;
+  width: 200px;
+  height: 25px;
+}
+
+.city {
+  font-size: 25px;
+  color: black;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.date {
+  color: black;
+  /* font-weight: lighter; */
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.temp {
+  color: black;
+  font-size: 60px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.weather {
+  color: black;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.hi-low {
+  color: black;
+  margin-top: 20px;
+  font-size: 30px;
+}
